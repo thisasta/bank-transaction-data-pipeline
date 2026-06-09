@@ -1,0 +1,6 @@
+transaction_id,customer_id,date,amount,currency,type,description
+1,1001,2026-06-01,2500.00,EUR,salary,Gehalt
+2,1001,2026-06-02,-55.10,EUR,subscription,Deutschlandticket
+3,1002,2026-06-02,-400.00,EUR,transfer,ETF Sparplan
+4,1003,2026-06-03,-1200.00,EUR,cash_withdrawal,ATM Withdrawal
+5,1004,2026-06-03,9999.99,EUR,incoming_transfer,Unknown sender
